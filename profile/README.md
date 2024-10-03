@@ -1,1 +1,2 @@
-# CST 438 Group 13
+# CST 438 Group 13 - Project 2
+
