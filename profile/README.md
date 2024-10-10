@@ -2,7 +2,7 @@
 Web based wishlist application
 
 ## Authors
-- https://github.com/orgs/CST-438-Project-2-Group-13/people/Chgunz
-- https://github.com/orgs/CST-438-Project-2-Group-13/people/xeahh
-- https://github.com/orgs/CST-438-Project-2-Group-13/people/MasonA717
-- https://github.com/orgs/CST-438-Project-2-Group-13/people/tr3nt-tayl0r
+- (Andy Hernandez)[https://github.com/Chgunz]
+- (Ashley Jaramillo)[https://github.com/xeahh]
+- (Mason Allred)[https://github.com/MasonA717]
+- (Trent Taylor)[https://github.com/tr3nt-tayl0r]
